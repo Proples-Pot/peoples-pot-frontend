@@ -1,4 +1,4 @@
-# Getting Started with Create Gamla.Fund App
+# Getting Started with Create People's Pot App
 
 This project was bootstrapped with [Create Gamla.Fund App](https://github.com/facebook/create-react-app).
 
