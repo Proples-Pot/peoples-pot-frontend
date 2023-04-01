@@ -1,7 +1,5 @@
 # Getting Started with Create People's Pot App
 
-This project was bootstrapped with [Create Gamla.Fund App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
