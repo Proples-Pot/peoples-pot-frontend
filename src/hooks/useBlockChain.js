@@ -6,7 +6,7 @@ import Web3 from 'web3'
 import moment from "moment";
 const contractABI = abi.abi;
 const fundABI = fundabi.abi;
-const contractAddress = "0xC3760F3E4aD004BdB14E7D161BdB276a5eeE670c";
+const contractAddress = "0xE19D4C2e8F20b4E4BbabFBFFF6b469F0339843C2";
 const ethereumChainDetails = {
   chainName: "Polygon Testnet Mumbai",
   rpcUrl: "https://rpc-mumbai.maticvigil.com/",

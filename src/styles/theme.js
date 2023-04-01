@@ -1,4 +1,6 @@
 import { createTheme } from "@mui/material/styles";
+// import { Inter } from 'next/font/google'
+
 
 let theme = createTheme({
   palette: {
@@ -122,14 +124,15 @@ let theme = createTheme({
   typography: {
     fontFamily: ["Roboto"].join(","),
     h1: {
-      fontWeight: 700,
+      fontWeight: 800,
     },
     h2: {
-      fontWeight: 900,
+      fontWeight: 1000,
       fontSize:"24px"
     },
     h3: {
       fontWeight: 700,
+      letterSpacing:"-2px"
     },
     h4: {
       fontWeight: 700,

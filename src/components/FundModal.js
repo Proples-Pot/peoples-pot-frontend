@@ -109,10 +109,11 @@ const FundModal = ({ open, onClose, data, currentAccount}) => {
               ))}
             </TextField>
           </Grid>
-          <Grid item lg={12} md={12} sm={12} xs={12}>
+          <Grid item lg={12} style={{color:"black"}} md={12} sm={12} xs={12}>
             <FormControlLabel
               control={<Checkbox />}
-              disabled = {onDemandDisable}
+              disabled={ onDemandDisable }
+              
               label="I understand the fund details, and agree to join by pledging the first month's depoist and required collateral"
             />
           </Grid>
