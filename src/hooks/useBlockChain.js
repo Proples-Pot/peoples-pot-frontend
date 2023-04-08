@@ -111,7 +111,7 @@ const useBlockChain = () => {
       console.log("balance: ",ethers.utils.formatEther(balance))
       setMetaMaskBalance(ethers.utils.formatEther(balance))
 
-      //Inititate Gamla Fund connection
+      //Inititate People's Pot connection
       console.log("Connected", account);
       setCurrentAccount(account);
       getContracts();
